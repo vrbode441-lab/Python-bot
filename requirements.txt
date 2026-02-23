@@ -1,2 +1,2 @@
-pyTelegramBotAPI
-sqlite3
+pip install pyTelegramBotAPI
+pip install sqlite3
